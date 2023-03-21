@@ -160,9 +160,7 @@ public class AsteroidsApplication extends Application {
 
     }
 
-    // Projectiles
-    // Adding points
-    // Continuous adding of asteroids
+
 
 
 
